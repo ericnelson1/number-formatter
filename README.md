@@ -27,3 +27,7 @@ In lieu of a formal style guide, take care to maintain the existing coding style
 
 ## Note
 Testing Travis CI and Coveralls code coverage
+
+[![Build Status](https://travis-ci.org/ericnelson1/number-formatter.svg?branch=master)](https://travis-ci.org/ericnelson1/number-formatter)
+
+[![Coverage Status](https://coveralls.io/repos/github/ericnelson1/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/ericnelson1/number-formatter?branch=master)
