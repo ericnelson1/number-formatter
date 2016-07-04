@@ -1,6 +1,6 @@
 {
   "name": "@ericnelson/number-formatter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test node module with Travis CI and Coveralls code coverage",
   "main": "index.js",
   "scripts": {
