@@ -1,0 +1,26 @@
+{
+  "name": "@ericnelson/number-formatter",
+  "version": "1.0.0",
+  "description": "Test node module with Travis CI and Coveralls code coverage",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericnelson1/number-formatter.git"
+  },
+  "author": "Eric Nelson <ericnelson6@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericnelson1/number-formatter/issues"
+  },
+  "homepage": "https://github.com/ericnelson1/number-formatter#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
