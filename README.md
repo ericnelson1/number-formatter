@@ -1,5 +1,8 @@
-Number Formatter
-=========
+# Number Formatter
+
+[![Build Status](https://travis-ci.org/ericnelson1/number-formatter.svg?branch=master)](https://travis-ci.org/ericnelson1/number-formatter)
+[![Coverage Status](https://coveralls.io/repos/github/ericnelson1/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/ericnelson1/number-formatter?branch=master)
+[![License](http://img.shields.io/:license-mit-green.svg?style=flat)](http://opensource.org/licenses/MIT)
 
 A small library that adds commas to numbers  
 
@@ -25,9 +28,5 @@ A small library that adds commas to numbers
 
 In lieu of a formal style guide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code.
 
-## Note
-Testing Travis CI and Coveralls code coverage
+## License
 
-[![Build Status](https://travis-ci.org/ericnelson1/number-formatter.svg?branch=master)](https://travis-ci.org/ericnelson1/number-formatter)
-
-[![Coverage Status](https://coveralls.io/repos/github/ericnelson1/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/ericnelson1/number-formatter?branch=master)
